@@ -23,7 +23,7 @@ This is a simple To-Do web application built with HTML, CSS, and JavaScript. The
 
 ## Demo
 
-You can check the live demo of the project [here](https://rabumaabraham.github.io/Quiz-App/) 
+You can check the live demo of the project [here](https://rabumaabraham.github.io/OIBSIP-LEVEL2-TASK3/) 
 ## Technologies Used
 
 - HTML: Provides the structure of the to-do list and separate sections for Pending and Completed tasks.
@@ -58,4 +58,5 @@ You can check the live demo of the project [here](https://rabumaabraham.github.i
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/575c582a-ae6a-4b19-9dad-02dd69b14cb0)
+![image](https://github.com/user-attachments/assets/086f0c4d-c674-4c0b-bc94-bcb5dba64a25)
+
