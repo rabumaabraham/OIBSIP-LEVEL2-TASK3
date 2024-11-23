@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List Web App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>To-Do List Web App</h1>
+        <p>Manage your tasks efficiently. Add, edit, complete, and delete tasks.</p>
+    </header>
+
+    <div id="todo-app">
+        <nav>
+            <ul>
+                <li><a href="#new-task" class="active">New Task</a></li>
+                <li><a href="#pending-tasks">Pending Tasks</a></li>
+                <li><a href="#completed-tasks">Completed Tasks</a></li>
+            </ul>
+        </nav>
+
+        <div class="app-content">
+            <section id="new-task" class="content-section active">
+                <h1>Add New Task</h1>
+                <div class="input-section">
+                    <input type="text" id="task-title" placeholder="Task Title" class="task-input">
+                    <textarea id="task-description" placeholder="Task Description" class="task-input"></textarea>
+                    <button id="add-task-btn" class="btn">Add Task</button>
+                </div>
+            </section>
+
+            <section id="pending-tasks" class="content-section">
+                <h1>Pending Tasks</h1>
+                <p class="intro-text">Tasks that you need to complete will appear here.</p>
+                <ul id="pending-tasks-list" class="task-list"></ul>
+            </section>
+
+            <section id="completed-tasks" class="content-section">
+                <h1>Completed Tasks</h1>
+                <p class="intro-text">Tasks that are marked as completed will appear here.</p>
+                <ul id="completed-tasks-list" class="task-list"></ul>
+            </section>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2024 developed by <a href="https://rabumaabraham.github.io/" id="footer">rabuma</a>. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
