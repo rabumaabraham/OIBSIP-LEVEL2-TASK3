@@ -1,6 +1,6 @@
 # To-Do Web App
 
-This is a simple To-Do web application built with HTML, CSS, and JavaScript. The app allows users to manage their daily tasks by adding, editing, deleting, and marking tasks as complete. The application features separate lists for Pending Tasks and Completed Tasks, allowing for a more organized approach to task management.
+This is a simple To-Do web application built with HTML, CSS, and JavaScript during my web development and design internship at Oasis Infobyte. The app allows users to manage their daily tasks by adding, editing, deleting, and marking tasks as complete. The application features separate lists for Pending Tasks and Completed Tasks, allowing for a more organized approach to task management.
 
 ## Table of Contents
 
